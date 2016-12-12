@@ -1,0 +1,50 @@
+Y
+npm start
+Y
+history
+.node_repl_history
+npm install -g repl.history
+var repl = require('repl').start('>');
+run repl.history
+var repl = require('repl').start('>');
+run repl.history
+run 
+nr
+repl
+repl.history
+run repl.history
+repl.history
+run repl.history
+.node_repl_history
+repl.history
+repl.history.cmd
+npm repl.history
+npm repl.history -h
+npm run repl.history 
+process.env.HOME
+node hello.js
+hello.js
+node -v
+npm -v
+node
+doskey/history
+doskey/history>history.txt
+npm start
+cd WatchUsBuild-Angular2Final-start-here
+cls
+npm start
+Y
+cls
+npm install angular-cli
+npm start
+Y
+install npm
+ng serve
+Y
+npm install
+npm start
+Y
+ng serve
+Y
+ng generate component race
+ng serve
