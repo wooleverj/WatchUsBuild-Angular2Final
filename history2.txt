@@ -2,10 +2,10 @@ git remote remove https://hithub.com/wooleverj/TestAngular.git
 git push -u origin master
 git origin
 doskey/history>history.txt
-.node_repl_history
-npm install -g repl.history
-var repl = require('repl').start('>');
-run repl.history
+git push -u origin master
+git remote add origin https://hithub.com/wooleverj/TestAngular.git
+git remote add origin https://github.com/wooleverj/TestAngular.git
+doskey/history>history2.txt
 var repl = require('repl').start('>');
 run repl.history
 run 
