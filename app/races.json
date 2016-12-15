@@ -27,6 +27,16 @@
       "isRacing": true,
       "image": "images/new_york_city_skyline.jpg",
       "imageDescription": "Bridge overlooking New York City"
+    },
+    {
+      "id": 4,
+      "name": "Eden Prairie Skyline",
+      "date": "2017-01-01T21:00:00",
+      "about": "Race Through the best place to live",
+      "entryFee": 6000,
+      "isRacing": false,
+      "image": "images/ep.jpg",
+      "imageDescription": "City Hall"
     }
   ]
 }
