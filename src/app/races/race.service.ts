@@ -13,4 +13,9 @@ export class RaceService {
     return this.http.get('app/races.json')
           .map(response => <Race[]>response.json().racesData);
   }
+
+  getRace(id:number){
+    return this.http.get('app/races.json')
+          .map(response => <Race>response.json().racesData[id-1]);
+  }
 }
